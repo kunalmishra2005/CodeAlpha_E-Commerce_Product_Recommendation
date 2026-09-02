@@ -31,7 +31,28 @@ The system recommends products similar to the product selected by the user. It u
 
 1. Clone the repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone ⚙️ How to Run
+
+1. Clone the repository
+
+  git clone 
+  https://github.com/kunalmishra2005/CodeAlpha_E-Commerce_Product_Recommendation.git
+ 
+
+2. Open the project folder
+
+cd 
+CodeAlpha_E-Commerce_Product_Recommendation
+
+3. Install the required libraries
+
+pip install -r requirements.txt
+
+4. Run the application
+
+streamlit run app.py
+
+The application will open in your web browser.
 
 2. Open the project folder
 
