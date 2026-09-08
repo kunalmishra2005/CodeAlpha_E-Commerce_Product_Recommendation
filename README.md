@@ -31,32 +31,11 @@ The system recommends products similar to the product selected by the user. It u
 
 1. Clone the repository
 
-git clone ⚙️ How to Run
-
-1. Clone the repository
-
-  git clone 
-  https://github.com/kunalmishra2005/CodeAlpha_E-Commerce_Product_Recommendation.git
- 
+git clone https://github.com/kunalmishra2005/CodeAlpha_E-Commerce_Product_Recommendation.git
 
 2. Open the project folder
 
-cd 
-CodeAlpha_E-Commerce_Product_Recommendation
-
-3. Install the required libraries
-
-pip install -r requirements.txt
-
-4. Run the application
-
-streamlit run app.py
-
-The application will open in your web browser.
-
-2. Open the project folder
-
-cd E-commerce
+cd CodeAlpha_E-Commerce_Product_Recommendation
 
 3. Install the required libraries
 
@@ -88,7 +67,7 @@ The products with the highest similarity scores are displayed as recommendations
 
 📁 Project Structure
 
-E-commerce/
+E-Commerce_Product_Recommendation/
 │
 ├── app.py
 ├── requirements.txt
@@ -98,14 +77,12 @@ E-commerce/
 
 The objective of this project is to demonstrate how AI and Natural Language Processing can be used to create a simple product recommendation system for an e-commerce platform.
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-**Kunal Mishra**
+Kunal Mishra
 
 GitHub: https://github.com/kunalmishra2005
 
-## 📌 Internship Project
+📌 Internship Project
 
-This project was developed as part of my **CodeAlpha AI Internship**.
-
-
+This project was developed as part of my CodeAlpha AI Internship.
