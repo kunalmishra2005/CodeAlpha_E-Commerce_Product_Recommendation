@@ -98,10 +98,14 @@ E-commerce/
 
 The objective of this project is to demonstrate how AI and Natural Language Processing can be used to create a simple product recommendation system for an e-commerce platform.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Kunal Mishra
+**Kunal Mishra**
 
-📌 Project Type
+GitHub: https://github.com/kunalmishra2005
 
-AI / Machine Learning Internship Project
+## 📌 Internship Project
+
+This project was developed as part of my **CodeAlpha AI Internship**.
+
+
